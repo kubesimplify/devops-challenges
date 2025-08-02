@@ -16,7 +16,7 @@ Develop an interactive, menu-driven script that allows users to perform the foll
 
 - Review CPU performance metrics
 
-- Send a Report every 6 hours to your SRE team
+- Send a Report every 6 hours to your SRE team via Email , for now you can send that report to yourself
 
 ## Guidelines
 - Build in error handling to smoothly manage unexpected issues.
