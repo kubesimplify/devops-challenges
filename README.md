@@ -1,4 +1,4 @@
-<img src="/home/kumail/Devops-Journey/Projects/devops-challenges/KubeSimplify.png" class="logo" width="120"/>
+<img src="KubeSimplify.png" class="logo" width="120"/>
 
 # DevOps Challenges
 
